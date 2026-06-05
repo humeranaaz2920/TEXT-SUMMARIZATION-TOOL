@@ -79,5 +79,5 @@ Developer: Humera Naaz
 
 *OUTPUT*:
 
-[WhatsApp Unknown 2026-06-06 at 00.04.51.zip](https://github.com/user-attachments/files/28650089/WhatsApp.Unknown.2026-06-06.at.00.04.51.zip)
+<img width="1040" height="723" alt="Image" src="https://github.com/user-attachments/assets/724fc9b4-7255-4bd8-ad3d-3570123fa8b1" />
 
